@@ -7,4 +7,17 @@ body {
 .jumbotron {
 	text-align: center;
 	background-image: url('../images/sofa.jpg');
+	background-size: cover;
+	height: 750px;
+}
+
+.jumbotron h1 {
+	color: red;
+}
+
+.jumbotron p {
+	margin: 50px;
+	color: red;
+	font-size: 36px;
+	text-align: left;
 }
