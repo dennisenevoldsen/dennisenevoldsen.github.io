@@ -6,9 +6,9 @@ body {
 
 .jumbotron {
 	text-align: center;
-	background-image: url('../images/Sofa.jpg');
+	background: url('../images/Sofa.jpg') fixed center no-repeat;
 	background-size: cover;
-	height: 750px;
+	height: auto;
 }
 
 .jumbotron h1 {
